@@ -1,1 +1,3 @@
 # study-php-mysql
+
+- [ ] arrays
